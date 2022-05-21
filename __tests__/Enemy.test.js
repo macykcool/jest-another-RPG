@@ -1,9 +1,4 @@
-// // const { jest } = require('@jest/globals');
-// const exp = require('constants');
-// const { expect } = require('expect');
-// const { test } = require('picomatch');
-// const { expect } = require('expect');
-// const { test } = require('picomatch');
+
 const Enemy = require('../lib/Enemy.js');
 const Potion = require('../lib/Potion.js');
 
